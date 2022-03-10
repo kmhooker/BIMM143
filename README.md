@@ -9,4 +9,5 @@ This is a store of my class work for [BIMM143 Winter 2022](https://bioboot.githu
 - Class 12: [RNA-Seq mini project](https://github.com/kmhooker/BIMM143/blob/main/week8/RNASeq_MiniProject.pdf)
 - Class 13: Essential UNIX for bioinformatics
 - Class 14: [Vaccination rate mini project](https://github.com/kmhooker/BIMM143/blob/main/week9/Vaccination-MiniProject.pdf)
+- Vacc mini proj: [mini proj](https://github.com/kmhooker/BIMM143/blob/main/week9/Vaccination%20MiniProject.Rmd)
 - Class 15: [Investigating pertussis resurgence mini project](https://github.com/kmhooker/BIMM143/blob/main/week10/Pertussis_MiniProj.pdf)
