@@ -1,6 +1,8 @@
 # BIMM143
 Bioinformatics BIMM143 W22 at UC San Diego.
 
+This is a store of my class work for [BIMM143 Winter 2022](https://bioboot.github.io/bimm143_W22/) at UC San Diego.
+
 Class 06 [Data Visualization](https://github.com/kmhooker/BIMM143/blob/main/week6/week6.pdf)
 
 Class 10 [Data Visualization](https://github.com/kmhooker/BIMM143/blob/main/week10/Pertussis_MiniProj.pdf)
